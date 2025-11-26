@@ -1,0 +1,11 @@
+streamlit
+pandas
+PyMuPDF
+python-docx
+langchain
+faiss-cpu
+langchain_community
+langchain_core
+python-dotenv
+google-generativeai
+sentence-transformers

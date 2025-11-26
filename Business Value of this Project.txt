@@ -1,0 +1,5 @@
+Business Value:
+
+* Reduces Time-to-Hire: Drastically cuts down the manual effort of screening resumes, saving an estimated 5 minutes per resume.
+* Improves Candidate Quality: Uses semantic search to find the best candidates based on the meaning of their skills and experience, not just keywords.
+* Enhances Recruiter Efficiency: AI-generated summaries help recruiters quickly understand a candidate's qualifications, speeding up decision-making.
