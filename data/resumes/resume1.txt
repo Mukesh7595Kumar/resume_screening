@@ -1,0 +1,26 @@
+**Alice Johnson**
+Data Scientist | Machine Learning Engineer
+alice.j@email.com | (123) 456-7890 | linkedin.com/in/alicej
+
+**Summary**
+A highly motivated Data Scientist with 4 years of experience in building and deploying machine learning models. Proficient in Python, NLP, and deep learning frameworks. Seeking to leverage my skills to solve challenging problems in a fast-paced environment.
+
+**Experience**
+*Data Scientist*, Tech Solutions Inc. (2021-Present)
+- Developed a sentiment analysis model using NLP techniques that improved customer feedback analysis by 40%.
+- Built a recommendation engine using collaborative filtering, increasing user engagement by 15%.
+- Worked with large datasets and performed data cleaning, preprocessing, and feature engineering.
+
+*Junior Data Analyst*, Data Insights LLC (2019-2021)
+- Created dashboards and visualizations to track key business metrics.
+- Performed statistical analysis to identify trends and patterns in data.
+
+**Education**
+*Master of Science in Data Science*, University of Example (2019)
+*Bachelor of Science in Computer Science*, State University (2017)
+
+**Skills**
+- **Programming:** Python, R, SQL
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Keras
+- **NLP:** NLTK, SpaCy, Hugging Face Transformers
+- **Tools:** Docker, Git, Jupyter Notebooks

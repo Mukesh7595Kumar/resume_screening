@@ -1,0 +1,25 @@
+**Bob Williams**
+Software Engineer
+bob.w@email.com | (987) 654-3210 | linkedin.com/in/bobw
+
+**Summary**
+A results-oriented Software Engineer with 6 years of experience in web development. Expertise in Java and Spring framework. Looking for a challenging role to build high-quality software solutions.
+
+**Experience**
+*Senior Software Engineer*, Web Innovations Co. (2019-Present)
+- Led a team of developers in building and maintaining a large-scale e-commerce platform.
+- Designed and implemented RESTful APIs using Spring Boot.
+- Improved application performance by 25% through code optimization and database tuning.
+
+*Software Developer*, App Builders Inc. (2017-2019)
+- Developed and maintained web applications using Java, Spring, and Hibernate.
+- Collaborated with the QA team to ensure bug-free releases.
+
+**Education**
+*Bachelor of Science in Software Engineering*, Institute of Technology (2017)
+
+**Skills**
+- **Programming:** Java, Python, JavaScript
+- **Frameworks:** Spring, Hibernate, Angular
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Maven, Jenkins, Git

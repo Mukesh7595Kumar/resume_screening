@@ -1,0 +1,23 @@
+**Job Title: Senior Python Developer (Machine Learning)**
+
+**Location:** San Francisco, CA (Hybrid)
+
+**Job Description:**
+
+We are seeking a highly skilled Senior Python Developer with a strong background in machine learning to join our innovative team. The ideal candidate will be responsible for designing, developing, and deploying machine learning models and applications. You will work closely with our data science and product teams to build scalable and efficient solutions.
+
+**Key Responsibilities:**
+- Design and implement machine learning models for various applications, including NLP, computer vision, and predictive analytics.
+- Develop robust and scalable Python code for data processing, model training, and deployment.
+- Collaborate with cross-functional teams to define project requirements and deliver high-quality solutions.
+- Optimize and fine-tune machine learning models for performance and accuracy.
+- Stay up-to-date with the latest advancements in machine learning and AI.
+
+**Qualifications:**
+- 5+ years of experience in Python development.
+- Proven experience in developing and deploying machine learning models.
+- Strong knowledge of machine learning frameworks such as TensorFlow, PyTorch, or scikit-learn.
+- Experience with NLP techniques and libraries (e.g., NLTK, SpaCy, Hugging Face Transformers).
+- Familiarity with cloud platforms (e.g., AWS, GCP, Azure) and MLOps practices.
+- Excellent problem-solving and communication skills.
+- Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
